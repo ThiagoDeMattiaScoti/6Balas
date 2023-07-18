@@ -1,1 +1,1 @@
-# 6Balas
+6 balas é um minigame desenvolvido em Python 3, nele você se encontra em uma espécie de 'roleta russa', é criado 6 espaços, representando um tambor de revólver, em um deles (escolhido aleatóriamente) é alocada uma bala, assim você joga clicando em 'Y' ou 'N' (não necessariamente precisam ser maiúsculos) para indicar se você quer ou não testar se tal espaço do revólver tem a bala, se houver, você toma um tiro e morre, se não houver você ganha, todas as regras são explicadas no abrir do jogo.
